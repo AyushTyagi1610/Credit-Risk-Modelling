@@ -13,6 +13,7 @@ The dataset classifies the credit risk of borrower with respect to various featu
 In this project, different learning algorithms have been used to find the best algorithm for credit risk prediction. The project also handles the imbalanced data and imputing the missing values.
  
  ### Methods used:
+ 
  1. K-Nearest Neighbours 
  2. Logistic Regression
  3. Random Forest
